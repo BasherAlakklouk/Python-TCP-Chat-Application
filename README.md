@@ -8,7 +8,7 @@ A real-time multi-user chat system built using Python Sockets and TCP protocol, 
 
 ## 🖼️ Project Preview
 
-![Presentation Cover](image_5ccfdd.jpg)
+![Presentation Cover](image_59.png)
 
 ### Live Execution in VS Code
 ![Chat Execution](image_5ccc93.jpg)
