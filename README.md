@@ -19,7 +19,7 @@ A real-time multi-user chat system built using Python Sockets and TCP protocol, 
 
 The application utilizes a **Client-Server Architecture** (`SOCK_STREAM`) to ensure reliable, ordered, and error-free message delivery across clients. 
 - **Server (`server.py`)**: Manages incoming connections, handles multi-threading (`threading`) to serve multiple clients simultaneously, and broadcasts messages to all active users.
-- **Client (`client.py`)**: Runs dual threads—one for continuously listening for incoming messages fromemate the server, and the main thread for user input.
+- **Client (`client.py`)**: Runs dual threads—one for continuously listening for incoming messages from the server, and the main thread for user input.
 
 ---
 
